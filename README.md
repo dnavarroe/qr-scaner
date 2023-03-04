@@ -1,6 +1,7 @@
 # qr_scanner
 
 A new Flutter project.
+Falta la opcion de mostrar mapas pues google me pedia una tardeja para haver uso de google maps y en el momento no tengo mas a lo termino :(   //)
 
 ## Getting Started
 
